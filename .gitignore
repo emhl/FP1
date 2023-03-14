@@ -1,5 +1,7 @@
 # ignore exported plots
 Compton/output/
+SQUID/output/
+
 
 
 # Byte-compiled / optimized / DLL files
